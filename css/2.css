@@ -1,0 +1,25 @@
+body {
+    background-color: skyblue; /* 天蓝色背景 */
+    text-align: center; /* 标题居中 */
+}
+.nav {
+    text-align: center; /* 居中导航栏 */
+}
+.nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.picture{
+    width: 364px;
+    height: 450px;
+}
+.movie{
+    width: 800px;
+    height: 800px;
+    margin: 0 auto;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.movie strong{
+    color: red;
+}

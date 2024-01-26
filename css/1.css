@@ -1,0 +1,28 @@
+body {
+    background-color: skyblue; /* 天蓝色背景 */
+    text-align: center; /* 标题居中 */
+}
+.nav {
+    text-align: center; /* 居中导航栏 */
+}
+.nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.photo img{
+    position: center;
+    width: 471px;
+    height: 412px;
+}
+.col-md-3{
+    border: 1px solid white;
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+.row{
+    position: relative;
+}
